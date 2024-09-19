@@ -3,7 +3,7 @@
 $movies = [
     1 => [
         'title' => 'Rocky',
-        'Director' => 'F. Scott Fitzgerald'
+        'Director' => 'John G. Avildsen'
     ],
     2 => [
         'title' => 'Jhon Wick',
